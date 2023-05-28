@@ -1,4 +1,4 @@
-# Runner_2D
+# Dash, a 2D-Runner project
 
 A Java platformer game to provide entertainment for the player.
 
