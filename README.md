@@ -1,5 +1,7 @@
 # Dash, a project for the 2D-Runner game.
 
+.PDF DOCUMENTATION FOR THIS PROJECT IS LOCATED IN FOLDER /documentation/
+
 A Java platformer game to provide entertainment for the player.
 
 
